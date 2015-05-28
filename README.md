@@ -10,7 +10,7 @@ Sparkのサンプルコードです
 
 ``sbt``
 
-``run /Users/XXXXXXX/Downloads/20141015_030537.csv 勇者``
+``run /Users/XXXXX/Downloads/20141015_030537.csv 勇者``
 
 ### mapReduce
 
@@ -24,6 +24,7 @@ Sparkのサンプルコードです
 
 ### mapReduceLoadTwitterData2 (TwitterのツイートデータからMapReduceでTwitterのアカウントをカウントする、指定した数以上発言しているアカウントをプリント)
 
+``run /Users/XXXXX/Downloads/output2_20141204_000141.csv 1000``
 
 ## その他情報
 
